@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T22:18:31.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.8" etag="lKZM2tFwun9eFtYCtVTb" type="github"><diagram id="wvqD9DKufpjn2fYpFy1f">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-04T22:47:04.124Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lJ0NjKxB8Vau8AuIJZ4Y" version="15.6.8" type="github">
+  <diagram id="wvqD9DKufpjn2fYpFy1f" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="54UJXeR3DBjvnGI5hy28-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="54UJXeR3DBjvnGI5hy28-1" target="54UJXeR3DBjvnGI5hy28-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-2" value="&lt;font color=&quot;#000000&quot;&gt;Construir a mecanica de angulação de chute&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#66B2FF;" vertex="1" parent="1">
+          <mxGeometry x="75" y="170" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-6" value="Chute" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="54UJXeR3DBjvnGI5hy28-9" target="54UJXeR3DBjvnGI5hy28-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="54UJXeR3DBjvnGI5hy28-9" target="54UJXeR3DBjvnGI5hy28-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-9" value="Mecânica de Verificação de Força" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="54UJXeR3DBjvnGI5hy28-10" target="54UJXeR3DBjvnGI5hy28-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-10" value="Animação de flecha de força" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="54UJXeR3DBjvnGI5hy28-13" target="54UJXeR3DBjvnGI5hy28-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-13" value="A verificação foi bem sucedida?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="329" y="310" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="54UJXeR3DBjvnGI5hy28-17" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
